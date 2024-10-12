@@ -16,4 +16,3 @@ I need to create PHP PDO code that inserts and fetches data for the navbar, hero
 
 without adding htmlspecialchars(), which caused an error during runtime. After adding it to my code, everything ran successfully.
 
-Front-end(Mohammad Ghezawi):
