@@ -1,8 +1,19 @@
-Back-end dev (Ghazi Kaissi):
-My superviser MOHAMMAD AL ABED told me that I have to do an introduction about PHP PDO to better understand the concept that i have to work on it.
-My first task include to do a search about the difference betweeen MYSQL , MYSQLI and PDO . 
-Why we have to use PHP PDO ? What is the bennefits for using it ? 
-He told me that we have a CMS project for the supervision tasks and his concept covert 80% for the main project that we have to do (LMS).
-I realise after all this that the CMS project using PHP PDO contain oop programming , functions,security and MYSQL injections...
+Back-end Developer (Ghazi Kaissi):
+
+My supervisor, MOHAMMAD AL ABED, told me that I need to prepare an introduction about PHP PDO to better understand the concept I will be working on.
+
+My first task includes researching the differences between MySQL, MySQLi, and PDO.
+
+Why do we need to use PHP PDO? What are the benefits of using it?
+
+He mentioned that we have a CMS project for supervision tasks, and its concept covers 80% of the main project we need to complete (LMS).
+
+I realized that the CMS project using PHP PDO includes object-oriented programming (OOP), functions, security, and protection against SQL injections.
+
+For task 2:
+
+I need to create PHP PDO code that inserts and fetches data for the navbar, hero section, and services. I encountered an issue when using fetchAll()
+
+without adding htmlspecialchars(), which caused an error during runtime. After adding it to my code, everything ran successfully.
 
 Front-end(Mohammad Ghezawi):
